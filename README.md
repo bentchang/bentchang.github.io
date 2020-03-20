@@ -1,2 +1,3 @@
+theme: jekyll-theme-minimal
 title: Ben Tchang Studio
-description: Happy Tree: printed on sustainable blanks
+description: E-commerce site for clothing and art
